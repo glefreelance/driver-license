@@ -1,0 +1,17 @@
+{
+  "name": "Api",
+  "homepage": "https://github.com/glefreelance/driver-license",
+  "authors": [
+    "phuminh88@gmail.com"
+  ],
+  "description": "License API",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
